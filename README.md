@@ -4,7 +4,7 @@ Windows11でPascalをコンパイルできるコマンドを作りました
 1.[割と簡単に '標準 Pascal' を試してみたい](https://qiita.com/ht_deko/items/41e95154e8da2f901698#-window-%E3%81%A7-pascal-p5-%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99)  
 	↑こちらの記事の　■ Window で Pascal-P5 を動かす　項目を進めます
 
-2.rpas.ps1ファイルをダウンロードして、Powershellを開きます。
+2. 1.項目最後まで完了したら、rpas.ps1ファイルをダウンロードして、Powershellを開きます。
 
 	notepad $PROFILE
 
