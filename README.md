@@ -20,4 +20,8 @@ Windows11でPascalをコンパイルできるコマンドを作りました
 
 	を入力して保存し、Powershellを再起動します。
 
-※rpas.ps1の15~16行目と3.のPathを該当ファイルが存在するPathに変更してください。
+※rpas.ps1の15~16行目と3.のPathを該当ファイルが存在するPathに変更してください。  
+  
+💡 注意：  
+	・P5 Pascal は ISO 7185 に準拠した簡易 Pascal のため、通常の Delphi / Free Pascal と微妙に仕様が異なります  
+	・WriteLn で出力する場合は、ヘッダに output を追加するのが基本です
