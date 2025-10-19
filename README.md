@@ -1,0 +1,2 @@
+# Win11-Powershell-Pascal
+Windows11でPascalをコンパイルできるコマンドを作りました
