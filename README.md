@@ -19,7 +19,16 @@ Windows11でPascalをコンパイルできるコマンドを作りました
 		}
 
 	を入力して保存し、Powershellを再起動します。
-
+  
+※使用方法：
+	Powershellに  
+	
+   		rpas ファイル名  
+		
+   と入力すれば動きます。  
+   <img width="449" height="269" alt="image" src="https://github.com/user-attachments/assets/099af2ab-6115-419a-bb97-0cde0c4aea6f" />  
+   <img width="551" height="401" alt="image" src="https://github.com/user-attachments/assets/fe297f1e-c9c2-4534-97e3-3582c173270c" />  
+   ☆ファイル名の拡張子は入れなくて大丈夫です。
 ※rpas.ps1の15~16行目と3.のPathを該当ファイルが存在するPathに変更してください。  
   
 💡 注意：  
